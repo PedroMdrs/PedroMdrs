@@ -10,7 +10,7 @@
 <br /> <br />
    
 <a target="_blank" align="right">
-    <img align="right" height="300" alt="GIF" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    <img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif"/>
 </a>
   
 <div align-"left">
