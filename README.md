@@ -54,11 +54,11 @@
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com" >
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
-    </a> <br> <br> <br>
+    </a> 
     <a  href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=1&column=6"/>
-    </a> <br>  <br> <br>
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"  />
+    </a> 
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"/>
 </p>
 
 
