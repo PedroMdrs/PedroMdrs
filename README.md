@@ -49,16 +49,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdrs&layout=compact)](https://github.com/pedromdrs/github-readme-stats) -->
 
 <p align = "center">
-    <a href="https://github-readme-stats.vercel.app">
+    <a width="49%" href="https://github-readme-stats.vercel.app">
         <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedromdrs&count_private=true&theme=gruvbox&show_icons=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com" >
         <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
     </a> <br> <br> <br>
     <a  href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=4&column=7"/>
+        <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=1&column=6"/>
     </a> <br>  <br> <br>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"  />
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"  />
 </p>
 
 
