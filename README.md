@@ -51,7 +51,7 @@
 <p align = "center">
     <a width="49%" href="https://github-readme-stats.vercel.app">
         <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedromdrs&count_private=true&theme=gruvbox&show_icons=true"/>
-    </a>  
+    </a> <br><br><br>
     <a href="https://github-readme-streak-stats.herokuapp.com" >
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
     </a>  <br><br><br>
