@@ -53,7 +53,7 @@
         <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedromdrs&count_private=true&theme=gruvbox&show_icons=true"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com" >
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
     </a> <br> <br> <br>
     <a  href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=1&column=6"/>
