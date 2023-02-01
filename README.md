@@ -31,7 +31,27 @@
 <br><br><br> <br> <br>
 <hr>
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromdrs)](https://github.com/PedroMdrs/github-readme-stats)
+<h3 align="center"> Github Stats </h3>
+
+<br> 
+
+<!-- [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromdrs&show_icons=true&theme=gruvbox&bg_color=00000000&)](https://github.com/PedroMdrs/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdrs&layout=compact)](https://github.com/pedromdrs/github-readme-stats) -->
+
+<p align = "center">
+    <a href="https://github-readme-stats.vercel.app">
+        <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedromdrs&count_private=true&theme=gruvbox&show_icons=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com" >
+        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
+    </a> <br> <br> <br>
+    <a  href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=4&column=7"/>
+    </a> <br>  <br> <br>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"  />
+</p>
+
 
 
 
