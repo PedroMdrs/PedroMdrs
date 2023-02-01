@@ -31,8 +31,8 @@
 <br><br><br> <br> <br>
 <hr>
 
-<!-- [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromdrs)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromdrs)](https://github.com/PedroMdrs/github-readme-stats)
+
 
 
 
