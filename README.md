@@ -11,8 +11,8 @@
    
 <a target="_blank" align="right">
     <img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif"/>
-</a>
-  
+</a> <br>
+
 <div align-"left">
     
   <h3>About Me</h3>
