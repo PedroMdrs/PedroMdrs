@@ -20,8 +20,7 @@
 
   <ul>
     <li>🎨 FrontEnd Focused </li>
-    <li>📚 Learning React and Design on <a href= "https://www.origamid.com/"> Origamid </a></li>
-    <li>✔️ Available for Freelancing</a></li>
+    <li>📚 Learning React on <a href= "https://www.origamid.com/"> Origamid </a></li>
   </ul>
   
   <Br>
