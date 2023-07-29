@@ -3,7 +3,7 @@
       src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
 </p>
 
-<h1 align="center"> Hi there <img src="https://em-content.zobj.net/thumbs/120/google/350/saluting-face_1fae1.png" width="35px" height="35px">, I'm <i>Pedro</i> </h1>
+<h1 align="center"> Hi there, I'm <i>Pedro</i> </h1>
 
 <h3 align="center" >
     I'm a self-taught FrontEnd developer from Brazil 🇧🇷 </h3>
