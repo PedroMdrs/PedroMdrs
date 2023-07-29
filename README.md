@@ -20,7 +20,7 @@
 
   <ul>
     <li>🎨 FrontEnd Focused </li>
-    <li>📚 Learning Typescript  <a href= "https://www.origamid.com/"> on Origamid </a></li>
+    <li>📚 Learning Typescript on <a href= "https://www.origamid.com/">  Origamid </a></li>
   </ul>
   
   <Br>
