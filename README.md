@@ -1,66 +1,20 @@
-<p align="center">
-  <img  alt="coding-anime" width = "50%" align="middle" 
-      src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
-</p>
+### Hi, I'm Pedro and I solve people and enterprise problems through technology and innovation.
 
-<h1 align="center"> Hi, I'm <i>Pedro</i> </h1>
+----
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![node](https://img.shields.io/static/v1?logo=node.js&label=&message=node&color=36465D&logoColor=AAA&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![react.js](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square&link=)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square&link=)
+![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=36465D&logoColor=AAA&style=flat-square&link=)
 
-<h3 align="center" >
-    I'm a self-taught FrontEnd developer from Brazil 🇧🇷 </h3>
-<br /> <br />
-   
-<a target="_blank" align="right">
-    <img align="right" height="300" alt="GIF" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif"/>
-</a> <br>
+**Front-end Developer** | Working developing pages, components, new features, and solving problems.
 
-<div align-"left">
-    
-  <h3>About Me</h3>
-  
+----
 
-  <ul>
-    <li>🎨 FrontEnd Focused </li>
-    <li>📚 Learning Typescript on <a href= "https://www.origamid.com/">  Origamid </a></li>
-  </ul>
-  
-  <Br>
-  
-  <div display="inline-block">
-  <img align="center" alt="Pedro-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Node" heigh8t="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
-  
-</div>
-  
-<br><br><br><br><br>
-
-<hr>
-
-<h3 align="center"> Github Stats </h3>
-
-<br> 
-
-<!-- [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromdrs&show_icons=true&theme=gruvbox&bg_color=00000000&)](https://github.com/PedroMdrs/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromdrs&layout=compact)](https://github.com/pedromdrs/github-readme-stats) -->
-
-<p align = "center">
-    <a width="49%" href="https://github-readme-stats.vercel.app">
-        <img alt="Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pedromdrs&count_private=true&theme=gruvbox&show_icons=true"/>
-    </a> <br><br><br>
-    <a href="https://github-readme-streak-stats.herokuapp.com" >
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromdrs&theme=gruvbox&date_format=%5BY%20%5DM%20j"/>
-    </a>  <br><br><br>
-    <a  href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="90%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=pedromdrs&theme=gruvbox&row=1&column=6"/>
-    </a> <br><br><br>
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedromdrs&theme=gruvbox&layout=compact" align="center"/>
-</p>
-
-
-
-
-
+<a href="https://www.linkedin.com/in/pedro-henrique-medeiros/">
+  <img align="left" alt="Adrian's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
