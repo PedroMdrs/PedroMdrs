@@ -1,19 +1,14 @@
 ### Hi, I'm Pedro and I like to build stuff.
 
-----
-![Languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square&link=)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
-![Tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![react.js](https://img.shields.io/static/v1?logo=react&label=&message=react&color=36465D&logoColor=AAA&style=flat-square&link=)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square&link=)
-![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=36465D&logoColor=AAA&style=flat-square&link=)
+I'm a creative **Front-end Developer** who is thirsty for knowledge living in Jaraguá do Sul - Brazil 🇧🇷. I'm 21 years old, spend most of my time learning new skills and working on my projects. I have a great desire to improve myself as a person.
 
-**Front-end Developer** | Working developing pages, components, new features, and solving problems.
+Also i go to the gym 🏋️ and i like to play videogames 🎮 in my freetime.
 
-----
+<hr />
 
+- Working with technologies: Typescript.
+- Frameworks: React.
+- Learning: Typescript.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMdrs&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/pedro-henrique-medeiros/">
