@@ -14,6 +14,8 @@
 
 ----
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMdrs&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/pedro-henrique-medeiros/">
-  <img align="left" alt="Adrian's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
