@@ -8,7 +8,6 @@ Also i go to the gym 🏋️ and i like to play videogames 🎮 in my freetime.
 
 - Working with technologies: Typescript.
 - Frameworks: React.
-- Learning: Typescript.
 <hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMdrs&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
